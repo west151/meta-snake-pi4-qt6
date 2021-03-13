@@ -159,6 +159,10 @@ QT6_PKGS = " \
     qtimageformats \
     qtwayland \
     qttranslations \
+    qtquickcontrols2 \
+    qtcharts \
+    qtquick3d \
+    qtquicktimeline \
 "
 
 IMAGE_INSTALL += " \
